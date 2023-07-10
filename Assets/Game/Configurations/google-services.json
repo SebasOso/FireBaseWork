@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634080241370",
+    "project_id": "fir-tutorial-a2d5d",
+    "storage_bucket": "fir-tutorial-a2d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634080241370:android:649152a6d07d489c4527e3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GameWork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634080241370-244luqmq8etckoohq830bmn5fk6et5hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM538zw2YJeDAH6Cni9cV4I7n6YosavVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634080241370-244luqmq8etckoohq830bmn5fk6et5hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
